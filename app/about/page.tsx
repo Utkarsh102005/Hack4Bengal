@@ -8,19 +8,9 @@ import TeamMemberCard from "@/components/team-member-card"
 export default function AboutPage() {
   const teamMembers = [
     {
-      name: "Chayan Paul",
-      role: "2nd Year B.Tech CSE",
-      strength: "Problem Solving",
-      jobRole: "Employee",
-      avatar: "CP",
-    },
-    {
-      name: "MD. Najmuddin Khan",
-      role: "2nd Year B.Tech CSE",
-      strength: "Listener and Learner",
-      jobRole: "Speaker",
-      avatar: "MK",
-    },
+      name: "Utkarsh Raj",
+      Bio: Sophomore Tech Enthu },
+    
     {
       name: "Anurup Saha",
       role: "2nd Year B.Tech CSE",
