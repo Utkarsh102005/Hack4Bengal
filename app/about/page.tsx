@@ -9,7 +9,7 @@ export default function AboutPage() {
   const teamMembers = [
     {
       name: "Utkarsh Raj",
-      Bio: Sophomore Tech Enthu },
+      Bio: “Sophomore Tech Enthu” },
     
     {
       name: "Anurup Saha",
